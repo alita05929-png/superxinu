@@ -122,7 +122,7 @@ h6 {
   transition: color 0.2s ease 0s;
 }
 .menu__link._navigator-active {
-  color: #fef200;
+  color: #14F195;
 }
 .icon-menu {
   display: none;
@@ -213,7 +213,7 @@ h6 {
   z-index: 2;
   flex-shrink: 0;
   border-radius: 0.625rem;
-  background-color: #fef200;
+  background-color: #14F195;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -606,7 +606,7 @@ h6 {
   line-height: 1;
 }
 .yellow .line__row span {
-  color: #fef200;
+  color: #14F195;
 }
 .about {
   position: relative;
@@ -1368,7 +1368,7 @@ h6 {
     position: absolute;
     width: 100%;
     height: 0.125rem;
-    background-color: #fef200;
+    background-color: #14F195;
   }
   .icon-menu::before {
     top: 0;
@@ -1811,28 +1811,28 @@ h6 {
 }
 @media (any-hover: hover) {
   .menu__link:hover {
-    color: #fef200;
+    color: #14F195;
   }
   .header__social-item:hover svg {
     -webkit-transform: scale(0.9);
     transform: scale(0.9);
   }
   .header__social-item:hover svg path {
-    fill: #fef200;
+    fill: #14F195;
   }
   .header__button:hover {
     -webkit-transform: scale(0.95);
     transform: scale(0.95);
   }
   .footer__top-menu-item:hover {
-    color: #fef200;
+    color: #14F195;
   }
   .footer__top-socail-item:hover svg {
     -webkit-transform: scale(0.9);
     transform: scale(0.9);
   }
   .footer__top-socail-item:hover svg path {
-    fill: #fef200;
+    fill: #14F195;
   }
   .footer__bottom-body a:hover span {
     text-decoration: underline;
